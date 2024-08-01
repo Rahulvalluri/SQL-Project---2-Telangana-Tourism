@@ -1,1 +1,1 @@
-# SQL-Project---2-Telangana-Tourism
+# SQL-Project--2-Telangana-Tourism
